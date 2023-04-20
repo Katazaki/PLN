@@ -11,7 +11,7 @@ Deseo con ansias que los recursos y proyectos aquí presentados sean de utilidad
 
 ![Imagen de portada](https://files.realpython.com/media/Practical-Text-Classification-with-Keras-and-Python_Watermark.fe326bd75146.jpg)
 
-## Contenido
+## Contenido 
 <div align="justify">
   
 - Introducción al Procesamiento del Lenguaje Natural (PLN).
