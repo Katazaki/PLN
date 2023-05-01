@@ -38,9 +38,9 @@ Estas son solo algunas de las herramientas de PLN más populares, pero existen m
 
 ## Proyectos
 
-- [1a - word2vec](enlace al repositorio del proyecto 1)
-- [2b- bot dnn spacy esp](enlace al repositorio del proyecto 2)
-- [3b - Custom embedding con Gensim](enlace al repositorio del proyecto 3)
-- [4d_predicción_palabra_simpsons](enlace al repositorio del proyecto 4)
-- [5_clothing_ecommerce_reviews](enlace al repositorio del proyecto 5)
-- [6_bot_qa](enlace al repositorio del proyecto 5)
+- [1a - word2vec](https://github.com/Katazaki/PLN/tree/main/Proyectos/1.Word2vec)
+- [2b- bot dnn spacy esp](https://github.com/Katazaki/PLN/tree/main/Proyectos/2.Bot%20DNN%20spacy)
+- [3b - Custom embedding con Gensim](https://github.com/Katazaki/PLN/tree/main/Proyectos/3.Custom%20Embedding%20con%20Gensim)
+- [4d_predicción_palabra_simpsons](https://github.com/Katazaki/PLN/tree/main/Proyectos/4.Next%20word%20prediction)
+- [5_clothing_ecommerce_reviews](https://github.com/Katazaki/PLN/tree/main/Proyectos/5.Sentiment%20analysis%20con%20Embeddings%20%2B%20LSTM)
+- [6_bot_qa](https://github.com/Katazaki/PLN/tree/main/Proyectos/6.Bot_qa)
