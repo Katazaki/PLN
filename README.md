@@ -38,8 +38,9 @@ Estas son solo algunas de las herramientas de PLN más populares, pero existen m
 
 ## Proyectos
 
-- [Nombre del proyecto 1](enlace al repositorio del proyecto 1)
-- [Nombre del proyecto 2](enlace al repositorio del proyecto 2)
-- [Nombre del proyecto 3](enlace al repositorio del proyecto 3)
-- [Nombre del proyecto 4](enlace al repositorio del proyecto 4)
-- [Nombre del proyecto 5](enlace al repositorio del proyecto 5)
+- [1a - word2vec](enlace al repositorio del proyecto 1)
+- [2b- bot dnn spacy esp](enlace al repositorio del proyecto 2)
+- [3b - Custom embedding con Gensim](enlace al repositorio del proyecto 3)
+- [4d_predicción_palabra_simpsons](enlace al repositorio del proyecto 4)
+- [5_clothing_ecommerce_reviews](enlace al repositorio del proyecto 5)
+- [6_bot_qa](enlace al repositorio del proyecto 5)
